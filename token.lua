@@ -1,5 +1,5 @@
 local json = require('json')
-
+-- this is token code for KRI$H 
 if not Balances then
     Balances = {
         [ao.id] = 10000
