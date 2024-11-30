@@ -9,6 +9,9 @@ if Name ~= 'KRISH' then
     Name = 'KRISH'
 end
 
+
+
+
 if Ticker ~= 'KRI$H' then
     Ticker = 'KRI$H'
 end
